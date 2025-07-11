@@ -14,10 +14,10 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ---
 
-## 🐍 Programowanie w Pythonie
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/48px-Python-logo-notext.svg.png" width="24"/> Programowanie w Pythonie
 
-- 📜 [EITC/CP/PPF – Python Programming Fundamentals (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CP/PPF/SLJ25004739&t=47BTnqjt1KP1lr5w)
-- 📜 [Python – Santander Universidades / SOA (2025)](Python%20Santander%20Certyfikat.pdf)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/24px-Python-logo-notext.svg.png" width="18"/> [EITC/CP/PPF – Python Programming Fundamentals (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CP/PPF/SLJ25004739&t=47BTnqjt1KP1lr5w)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/24px-Python-logo-notext.svg.png" width="18"/> [Python – Santander Universidades / SOA (2025)](Python%20Santander%20Certyfikat.pdf)
 
 ---
 
