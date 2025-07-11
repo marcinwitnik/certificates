@@ -6,9 +6,9 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ## 🧠 Sztuczna Inteligencja / AI / Machine Learning
 
-- <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/48px-Google_%22G%22_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg)" width="18"/> [EITC/AI/GCML – Google Cloud Machine Learning (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GCML/SLJ25004739&t=cxHPTzTRHfCF6245)
+- <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="18"/> [EITC/AI/GCML – Google Cloud Machine Learning (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GCML/SLJ25004739&t=cxHPTzTRHfCF6245)
 - 📜 [EITC/AI/TFF – TensorFlow Fundamentals (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/TFF/SLJ25004739&t=ShW35LqHBDQvgc7z)
-- <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/48px-Google_%22G%22_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg)" width="18"/> [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
+- <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="18"/> [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="18"/> [Podstawy ChatGPT – SOA (2025)](Podstawy%20ChatGPT%20Certyfikat.pdf)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18"/> [Microsoft Copilot – SOA (2025)](Podstawy%20Microsoft%20Copilot.pdf)
 
@@ -21,9 +21,9 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ---
 
-## <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/48px-Google_%22G%22_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg)" width="24"/> Google Cloud Platform
+## <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="24"/> Google Cloud Platform
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/48px-Google_%22G%22_Logo.svg.png" width="18"/> [EITC/CL/GCP – Google Cloud Platform (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CL/GCP/SLJ25004739&t=wDpwrFKg4XhcV9JS)
+- <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="18"/> [EITC/CL/GCP – Google Cloud Platform (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CL/GCP/SLJ25004739&t=wDpwrFKg4XhcV9JS)
 
 ---
 
@@ -40,4 +40,3 @@ Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi
 📁 Folder z certyfikatami PDF znajduje się w tym repozytorium. Możesz również pobrać je bezpośrednio lub skontaktować się ze mną w razie pytań.
 
 📫 Kontakt: marcin.witnik@gmail.com
-
