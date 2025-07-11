@@ -21,9 +21,9 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" width="24"/> Google Cloud Platform
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/48px-Google_2015_logo.svg.png" width="24"/> Google Cloud Platform
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" width="20"/> [EITC/CL/GCP – Google Cloud Platform (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CL/GCP/SLJ25004739&t=wDpwrFKg4XhcV9JS)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/24px-Google_2015_logo.svg.png" width="18"/> [EITC/CL/GCP – Google Cloud Platform (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CL/GCP/SLJ25004739&t=wDpwrFKg4XhcV9JS)
 
 ---
 
