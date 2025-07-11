@@ -7,6 +7,8 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 ## 🧠 Sztuczna Inteligencja / AI / Machine Learning
 
 - 📜 [EITC/AI/GCML – Google Cloud Machine Learning (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GCML/SLJ25004739&t=cxHPTzTRHfCF6245)
+- 📜 [EITC/AI/TFF – TensorFlow Fundamentals (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/TFF/SLJ25004739&t=ShW35LqHBDQvgc7z)
+- 📜 [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
 - 📜 [Podstawy ChatGPT – SOA (2025)](Podstawy%20ChatGPT%20Certyfikat.pdf)
 - 📜 [Microsoft Copilot – SOA (2025)](Podstawy%20Microsoft%20Copilot.pdf)
 
@@ -38,4 +40,3 @@ Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi
 📁 Folder z certyfikatami PDF znajduje się w tym repozytorium. Możesz również pobrać je bezpośrednio lub skontaktować się ze mną w razie pytań.
 
 📫 Kontakt: marcin.witnik@gmail.com
-
