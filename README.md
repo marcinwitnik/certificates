@@ -6,11 +6,11 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ## 🧠 Sztuczna Inteligencja / AI / Machine Learning
 
-- <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="18"/> [EITC/AI/GCML – Google Cloud Machine Learning (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GCML/SLJ25004739&t=cxHPTzTRHfCF6245)
+- <img src="https://cdn.simpleicons.org/googlecloud" width="18" alt="Google Cloud"/> [EITC/AI/GCML – Google Cloud Machine Learning (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GCML/SLJ25004739&t=cxHPTzTRHfCF6245)
 - 📜 [EITC/AI/TFF – TensorFlow Fundamentals (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/TFF/SLJ25004739&t=ShW35LqHBDQvgc7z)
-- <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="18"/> [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="18"/> [Podstawy ChatGPT – SOA (2025)](Podstawy%20ChatGPT%20Certyfikat.pdf)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18"/> [Microsoft Copilot – SOA (2025)](Podstawy%20Microsoft%20Copilot.pdf)
+- <img src="https://cdn.simpleicons.org/googlecloud" width="18" alt="Google Cloud"/> [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="18" alt="ChatGPT"/> [Podstawy ChatGPT – SOA (2025)](Podstawy%20ChatGPT%20Certyfikat.pdf)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" alt="Microsoft"/> [Microsoft Copilot – SOA (2025)](Podstawy%20Microsoft%20Copilot.pdf)
 
 ---
 
@@ -21,9 +21,9 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ---
 
-## <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="24"/> Google Cloud Platform
+## <img src="https://cdn.simpleicons.org/googlecloud" width="24" alt="Google Cloud Platform"/> Google Cloud Platform
 
-- <img src="https://www.clipartmax.com/png/small/240-2401729_our-strategic-approach-provides-our-customers-maximum-google-cloud-logo-vector.png" width="18"/> [EITC/CL/GCP – Google Cloud Platform (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CL/GCP/SLJ25004739&t=wDpwrFKg4XhcV9JS)
+- <img src="https://cdn.simpleicons.org/googlecloud" width="18" alt="Google Cloud"/> [EITC/CL/GCP – Google Cloud Platform (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CL/GCP/SLJ25004739&t=wDpwrFKg4XhcV9JS)
 
 ---
 
