@@ -37,5 +37,5 @@ Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi
 
 📁 Folder z certyfikatami PDF znajduje się w tym repozytorium. Możesz również pobrać je bezpośrednio lub skontaktować się ze mną w razie pytań.
 
-📫 Kontakt: filip.gibas@example.com
+📫 Kontakt: marcin.witnik@gmail.com
 
