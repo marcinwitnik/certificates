@@ -33,6 +33,12 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ---
 
+## ⚛️ Frameworki frontendowe
+
+- <img src="https://cdn.simpleicons.org/react" width="18" alt="React"/> [React – ZSE (2025)](Certyfikat%20React%20ZSE%202025.pdf)
+
+---
+
 ## 🔗 Uwagi końcowe
 
 Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi lub linkami do weryfikacji (w przypadku EITC). 
@@ -40,3 +46,4 @@ Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi
 📁 Folder z certyfikatami PDF znajduje się w tym repozytorium. Możesz również pobrać je bezpośrednio lub skontaktować się ze mną w razie pytań.
 
 📫 Kontakt: marcin.witnik@gmail.com
+
