@@ -29,7 +29,7 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ## 💼 AI w Biznesie
 
-- <img src="https://cdn.simpleicons.org/openai" width="18" alt="AI"/> [Responsible Prompting: Maximize AI in Your Business – Santander Universidades / SOA (2025)](AI%20in%20business%20Santander%20Certyfikat.pdf)
+- <img src="https://cdn.simpleicons.org/robotsdottxt" width="18" alt="AI Robot"/> [Responsible Prompting: Maximize AI in Your Business – Santander Universidades / SOA (2025)](AI%20in%20business%20Santander%20Certyfikat.pdf)
 
 ---
 
