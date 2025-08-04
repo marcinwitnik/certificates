@@ -11,7 +11,7 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 - <img src="https://cdn.simpleicons.org/googlecloud" width="18" alt="Google Cloud"/> [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
 - <img src="https://cdn.simpleicons.org/openai" width="18" alt="OpenAI"/> [Podstawy ChatGPT – SOA (2025)](Podstawy%20ChatGPT%20Certyfikat.pdf)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" alt="Microsoft"/> [Microsoft Copilot – SOA (2025)](Podstawy%20Microsoft%20Copilot.pdf)
-- <img src="https://cdn.simpleicons.org/probot" width="18" alt="AI Robot Icon"/> [Responsible Prompting: Maximize AI in Your Business – Santander Universidades / SOA (2025)](AI%20in%20business%20Santander%20Certyfikat.pdf)
+- <img src="https://logo.clearbit.com/santander.com" width="18" alt="Santander"/> [Responsible Prompting: Maximize AI in Your Business – Santander Universidades / SOA (2025)](AI%20in%20business%20Santander%20Certyfikat.pdf)
 - <img src="https://logo.clearbit.com/santander.com" width="18" alt="Santander"/> [Introduction to Data Science – Santander Universidades / SOA (2025)](Introduction%20to%20Data%20Science.pdf)
 
 ---
