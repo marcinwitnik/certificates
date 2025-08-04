@@ -12,7 +12,7 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 - <img src="https://cdn.simpleicons.org/openai" width="18" alt="OpenAI"/> [Podstawy ChatGPT – SOA (2025)](Podstawy%20ChatGPT%20Certyfikat.pdf)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" alt="Microsoft"/> [Microsoft Copilot – SOA (2025)](Podstawy%20Microsoft%20Copilot.pdf)
 - <img src="https://cdn.simpleicons.org/probot" width="18" alt="AI Robot Icon"/> [Responsible Prompting: Maximize AI in Your Business – Santander Universidades / SOA (2025)](AI%20in%20business%20Santander%20Certyfikat.pdf)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Banco_Santander_Logotipo.svg/512px-Banco_Santander_Logotipo.svg.png" width="18" alt="Santander"/> [Introduction to Data Science – Santander Universidades / SOA (2025)](Introduction%20to%20Data%20Science.pdf)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Santander_Logo.svg/32px-Santander_Logo.svg.png" width="18" alt="Santander"/> [Introduction to Data Science – Santander Universidades / SOA (2025)](Introduction%20to%20Data%20Science.pdf)
 
 ---
 
