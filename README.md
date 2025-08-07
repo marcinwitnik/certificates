@@ -6,6 +6,8 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ## 🧠 Sztuczna Inteligencja / AI / Machine Learning
 
+- <img src="https://cdn.simpleicons.org/tensorflow" width="18" alt="TensorFlow"/> [EITC/AI/DLTF – Deep Learning with TensorFlow (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/DLTF/SLJ25004739&t=3svhCJKSTnLjFgVj)
+
 - <img src="https://cdn.simpleicons.org/googlecloud" width="18" alt="Google Cloud"/> [EITC/AI/GCML – Google Cloud Machine Learning (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GCML/SLJ25004739&t=cxHPTzTRHfCF6245)
 - <img src="https://cdn.simpleicons.org/tensorflow" width="18" alt="TensorFlow"/> [EITC/AI/TFF – TensorFlow Fundamentals (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/TFF/SLJ25004739&t=ShW35LqHBDQvgc7z)
 - <img src="https://cdn.simpleicons.org/googlecloud" width="18" alt="Google Cloud"/> [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
@@ -17,6 +19,8 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 ---
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/48px-Python-logo-notext.svg.png" width="24"/> Programowanie w Pythonie
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/24px-Python-logo-notext.svg.png" width="18"/> [EITC/AI/MLP – Machine Learning with Python (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/MLP/SLJ25004739&t=ZSHkHKWVV6nJ3RHt)
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/24px-Python-logo-notext.svg.png" width="18"/> [EITC/CP/PPF – Python Programming Fundamentals (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/CP/PPF/SLJ25004739&t=47BTnqjt1KP1lr5w)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/24px-Python-logo-notext.svg.png" width="18"/> [Python – Santander Universidades / SOA (2025)](Python%20Santander%20Certyfikat.pdf)
