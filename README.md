@@ -15,6 +15,8 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" alt="Microsoft"/> [Microsoft Copilot – SOA (2025)](Podstawy%20Microsoft%20Copilot.pdf)
 - <img src="https://logo.clearbit.com/santander.com" width="18" alt="Santander"/> [Responsible Prompting: Maximize AI in Your Business – Santander Universidades / SOA (2025)](AI%20in%20business%20Santander%20Certyfikat.pdf)
 - <img src="https://logo.clearbit.com/santander.com" width="18" alt="Santander"/> [Introduction to Data Science – Santander Universidades / SOA (2025)](Introduction%20to%20Data%20Science.pdf)
+- <img src="https://cdn.simpleicons.org/tensorflow" width="18" alt="TensorFlow"/> [EITC/AI/DLPTFK – Deep Learning with Python, TensorFlow and Keras (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/DLPTFK/SLJ25004739&t=1GPMBBp00Hq4zB45)
+- <img src="https://cdn.simpleicons.org/pytorch" width="18" alt="PyTorch"/> [EITC/AI/DLPP – Deep Learning with Python and PyTorch (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/DLPP/SLJ25004739&t=Nj52DsPP4m7pm2tM)
 
 ---
 
