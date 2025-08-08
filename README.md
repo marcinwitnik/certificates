@@ -1,6 +1,6 @@
 # 📄 Certyfikaty IT & AI – Marcin Witnik
 
-Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkoleń i kursów krajowych oraz europejskich (EITC). Dokumenty dostępne są w formacie PDF i potwierdzają moje kompetencje w obszarach takich jak AI, Python, Google Cloud oraz narzędzia AI w biznesie.
+Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkoleń i kursów krajowych oraz europejskich (EITC). Dokumenty dostępne są w formacie PDF i potwierdzają moje kompetencje w obszarach takich jak AI, Python, PyTorch, TensorFlow, Keras, Google Cloud oraz narzędzia AI w biznesie.
 
 ---
 
