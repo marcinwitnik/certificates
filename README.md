@@ -1,6 +1,6 @@
-# 📄 Certyfikaty IT & AI – Marcin Witnik
+# 📄 Certyfikaty IT & AI oraz Osiągnięcia naukowe – Marcin Witnik
 
-Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkoleń i kursów krajowych oraz europejskich (EITC). Dokumenty dostępne są w formacie PDF i potwierdzają moje kompetencje w obszarach takich jak AI, Python, PyTorch, TensorFlow, Keras, Google Cloud oraz narzędzia AI w biznesie.
+Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkoleń i kursów krajowych oraz europejskich (EITC), a także sekcja **Osiągnięcia naukowe** (dyplomy, zaświadczenia i certyfikaty zawodowe). Dokumenty dostępne są w formacie PDF i potwierdzają moje kompetencje w obszarach takich jak AI, Python, PyTorch, TensorFlow, Keras, Google Cloud oraz narzędzia AI w biznesie.
 
 ---
 
@@ -43,10 +43,15 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ## 🎓 Osiągnięcia naukowe
 
+Sekcja zawiera dyplomy naukowe, zaświadczenia oraz certyfikaty zawodowe. Wszystkie dokumenty są oryginalne; w niektórych egzemplarzach zakryto wrażliwe dane (np. PESEL).
+
 * 🏅 [Mistrzostwa IT 2023](Mistrzostwa%20IT%202023.jpg)
 * 🥇 [Dyplom – Laureat PZSWIR 2025](Dyplom%20-%20Laureat%20PZSWIR%202025.pdf)
 * 📄 [Zaświadczenie udziału w finale 2025 – PZSWIR](Za%C5%9Bwiadczenie%20udzia%C5%82u%20w%20finale%202025%20-%20PZSWIR.pdf)
 * 📄 [Zaświadczenie udziału w finale 2024 – PZSWIR](Za%C5%9Bwiadczenie%20udzia%C5%82u%20w%20finale%202024%20-%20PZSWIR.pdf)
+* 📄 [Dyplom Zawodowy – Technik Programista](Dyplom%20Zawodowy%20-%20Technik%20Programista.pdf)
+* 📄 [Certyfikat Kwalifikacji Zawodowej – INF.03](Certyfikat%20Kwalifikacji%20Zawodowej%20-%20INF.03.pdf)
+* 📄 [Certyfikat Kwalifikacji Zawodowej – INF.04](Certyfikat%20Kwalifikacji%20Zawodowej%20-%20INF.04.pdf)
 
 ---
 
@@ -57,4 +62,3 @@ Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi
 📁 Folder z certyfikatami PDF znajduje się w tym repozytorium. Możesz również pobrać je bezpośrednio lub skontaktować się ze mną w razie pytań.
 
 📫 Kontakt: marcin.witnik@gmail.com
-
