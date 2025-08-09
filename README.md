@@ -49,9 +49,9 @@ Sekcja zawiera dyplomy naukowe, zaświadczenia oraz certyfikaty zawodowe. Wszyst
 * 🥇 [Dyplom – Laureat PZSWIR 2025](./osiagniecia-naukowe/Dyplom%20-%20Laureat%20PZSWIR%202025.pdf)
 * 📄 [Zaświadczenie udziału w finale 2025 – PZSWIR](./osiagniecia-naukowe/Za%C5%9Bwiadczenie%20udzia%C5%82u%20w%20finale%202025%20-%20PZSWIR.pdf)
 * 📄 [Zaświadczenie udziału w finale 2024 – PZSWIR](./osiagniecia-naukowe/Za%C5%9Bwiadczenie%20udzia%C5%82u%20w%20finale%202024%20-%20PZSWIR.pdf)
-* 📄 [Dyplom Zawodowy – Technik Programista](./osiagniecia-naukowe/Dyplom%20Zawodowy%20-%20Technik%20Programista.pdf)
-* 📄 [Certyfikat Kwalifikacji Zawodowej – INF.03](./osiagniecia-naukowe/Certyfikat%20Kwalifikacji%20Zawodowej%20-%20INF.03.pdf)
-* 📄 [Certyfikat Kwalifikacji Zawodowej – INF.04](./osiagniecia-naukowe/Certyfikat%20Kwalifikacji%20Zawodowej%20-%20INF.04.pdf)
+* 📜 [Dyplom Zawodowy – Technik Programista](./osiagniecia-naukowe/Dyplom%20Zawodowy%20-%20Technik%20Programista.pdf)
+* 💼 [Certyfikat Kwalifikacji Zawodowej – INF.03](./osiagniecia-naukowe/Certyfikat%20Kwalifikacji%20Zawodowej%20-%20INF.03.pdf)
+* 💼 [Certyfikat Kwalifikacji Zawodowej – INF.04](./osiagniecia-naukowe/Certyfikat%20Kwalifikacji%20Zawodowej%20-%20INF.04.pdf)
 
 ---
 
