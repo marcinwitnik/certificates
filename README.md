@@ -43,10 +43,10 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ## 🎓 Osiągnięcia naukowe
 
-- 🏅 [Mistrzostwa IT 2023](Mistrzostwa%20IT%202023.pdf)
-- 🥇 [Dyplom – Laureat PZSWIR 2025](Dyplom%20-%20Laureat%20PZSWIR%202025.pdf)
-- 📄 [Zaświadczenie udziału w finale 2025 – PZSWIR](Zaswiadczenie%20udzialu%20w%20finale%202025%20-%20PZSWIR.pdf)
-- 📄 [Zaświadczenie udziału w finale 2024 – PZSWIR](Zaswiadczenie%20udzialu%20w%20finale%202024%20-%20PZSWIR.pdf)
+* 🏅 [Mistrzostwa IT 2023](Mistrzostwa%20IT%202023.jpg)
+* 🥇 [Dyplom – Laureat PZSWIR 2025](Dyplom%20-%20Laureat%20PZSWIR%202025.pdf)
+* 📄 [Zaświadczenie udziału w finale 2025 – PZSWIR](Za%C5%9Bwiadczenie%20udzia%C5%82u%20w%20finale%202025%20-%20PZSWIR.pdf)
+* 📄 [Zaświadczenie udziału w finale 2024 – PZSWIR](Za%C5%9Bwiadczenie%20udzia%C5%82u%20w%20finale%202024%20-%20PZSWIR.pdf)
 
 ---
 
