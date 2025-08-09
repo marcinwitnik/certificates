@@ -41,6 +41,15 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 
 ---
 
+## 🎓 Osiągnięcia naukowe
+
+- 🏅 [Mistrzostwa IT 2023](Mistrzostwa%20IT%202023.pdf)
+- 🥇 [Dyplom – Laureat PZSWIR 2025](Dyplom%20-%20Laureat%20PZSWIR%202025.pdf)
+- 📄 [Zaświadczenie udziału w finale 2025 – PZSWIR](Zaswiadczenie%20udzialu%20w%20finale%202025%20-%20PZSWIR.pdf)
+- 📄 [Zaświadczenie udziału w finale 2024 – PZSWIR](Zaswiadczenie%20udzialu%20w%20finale%202024%20-%20PZSWIR.pdf)
+
+---
+
 ## 🔗 Uwagi końcowe
 
 Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi lub linkami do weryfikacji (w przypadku EITC). 
@@ -48,3 +57,4 @@ Wszystkie dokumenty są oryginalne i opatrzone indywidualnymi numerami seryjnymi
 📁 Folder z certyfikatami PDF znajduje się w tym repozytorium. Możesz również pobrać je bezpośrednio lub skontaktować się ze mną w razie pytań.
 
 📫 Kontakt: marcin.witnik@gmail.com
+
