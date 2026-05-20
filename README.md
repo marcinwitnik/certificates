@@ -1,4 +1,7 @@
-# <img src="https://img.icons8.com/ios-filled/50/FFFFFF/certificate.png" width="28" alt="Certyfikaty"/> Certyfikaty IT & AI oraz Osiągnięcia naukowe – Marcin Witnik
+<h1 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/certificate.png" width="28" alt="Certyfikaty"/> 
+  Certyfikaty IT & AI oraz Osiągnięcia naukowe – Marcin Witnik
+</h1>
 
 Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkoleń i kursów krajowych oraz europejskich (EITC), a także sekcja **Osiągnięcia naukowe** (dyplomy, zaświadczenia i certyfikaty zawodowe). Dokumenty dostępne są w formacie PDF i potwierdzają moje kompetencje w obszarach takich jak AI, Python, PyTorch, TensorFlow, Keras, Google Cloud oraz narzędzia AI w biznesie.
 
