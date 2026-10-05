@@ -15,6 +15,7 @@ Poniżej znajduje się zestawienie moich certyfikatów zdobytych w ramach szkole
 - <img src="https://www.google.com/s2/favicons?domain=eitci.org&sz=64" width="18" alt="EITCI"/> [EITC/AI/GVAPI – Google Vision API (2 ECTS, 2025)](https://www.eitci.org/val.php?id=EITC/AI/GVAPI/SLJ25004739&t=1JHvjd3V0d21mwtg)
 
 - <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=64" width="18" alt="OpenAI"/> [Podstawy ChatGPT – SOA (2025)](./ai-ml/Podstawy%20ChatGPT%20Certyfikat.pdf)
+- <img src="https://www.google.com/s2/favicons?domain=openai.com&sz=64" width="18" alt="OpenAI"/> [OpenAI Academy – Apply AI at Work Pathway Completion (2026)](./ai-ml/Pathway%20Completion%20Certificate%20Apply%20AI%20at%20Work.pdf)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="18" alt="Microsoft"/> [Microsoft Copilot – SOA (2025)](./ai-ml/Podstawy%20Microsoft%20Copilot.pdf)
 - <img src="https://www.google.com/s2/favicons?domain=santander.com&sz=64" width="18" alt="Santander"/> [Responsible Prompting: Maximize AI in Your Business – Santander Universidades / SOA (2025)](./ai-ml/AI%20in%20business%20Santander%20Certyfikat.pdf)
 - <img src="https://www.google.com/s2/favicons?domain=santander.com&sz=64" width="18" alt="Santander"/> [Introduction to Data Science – Santander Universidades / SOA (2025)](./ai-ml/Introduction%20to%20Data%20Science.pdf)
